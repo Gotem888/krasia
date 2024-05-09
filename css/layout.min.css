@@ -182,13 +182,13 @@ h4 {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 90%;
+  width: 80%;
   padding-bottom: 32px;
 }
 .map iframe {
   align-items: center;
   justify-content: center;
-  width: 90%;
+  width: 80%;
   height: 250px;
 }
 .content-wrapper-link {
